@@ -33,5 +33,12 @@ namespace IndianStateCensusAnalyserTest
             totalRecord = censusAnalyser.LoadCensusData(indianStateCensusFilePath, Country.INDIA, indianStateCensusHeaders);
             Assert.AreEqual(3, totalRecord.Count);
         }
+
+        [Test]
+        public void GivenWrongIndianCensusDataFile_WhenRead_ShouldReturnCustomException()
+        {
+            var censusException = Assert.Throws<CensusAnalyserException>(() => censusAnalyser.LoadCensusData(wrongIndianStateCensusFilePath, Country.INDIA, indianStateCensusHeaders));
+            Assert.AreEqual(CensusAnalyserException.ExceptionType.FILE_NOT_FOUND, censusException.eType);
+        }
     }
 }
