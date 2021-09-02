@@ -1,0 +1,13 @@
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.exe
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.deps.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.runtimeconfig.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.runtimeconfig.dev.json
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.dll
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStateCensusAnalyser.pdb
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.AssemblyInfo.cs
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.dll
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.pdb
+C:\Users\vk476\Desktop\Fellowship Program\Practice Problems\Day29Problems\IndianStateCensusAnalyser\IndianStateCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyser.genruntimeconfig.cache
