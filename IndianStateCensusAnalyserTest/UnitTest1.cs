@@ -78,12 +78,20 @@ namespace IndianStateCensusAnalyserTest
         }
 
 
-        // Test case - 2.x
+        // Test case - 2.1
         [Test]
         public void GivenIndianStateCodeFile_WhenRead_ShouldReturnCensusDataCount()
         {
             stateRecords = censusAnalyser.LoadCensusData(indianStateCodePath, Country.INDIA, indianStateCodeHeaders);
             Assert.AreEqual(37, stateRecords.Count);
+        }
+
+        // Test case - 2.2
+        [Test]
+        public void GivenWrongStateCodeFile_WhenRead_ShouldReturnCustomException()
+        {
+            var stateException = Assert.Throws<CensusAnalyserException>(() => censusAnalyser.LoadCensusData(WrongIndianStateCodeFilePath, Country.INDIA, indianStateCodeHeaders));
+            Assert.AreEqual(CensusAnalyserException.ExceptionType.FILE_NOT_FOUND, stateException.eType);
         }
     }
 }
